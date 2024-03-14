@@ -1,0 +1,11 @@
+
+<suite name="Suite" verbose="5">
+	<test name="Test">
+		<parameter name="doctorName" value="Beth"/>
+		<parameter name="appointmentTime" value="10Am"/>
+		<classes>
+			<class name="betabatch.ScheduleAppointmentDatePickerTests"/>
+		</classes>
+	</test> <!-- Test -->
+</suite>
+<!-- Suite -->

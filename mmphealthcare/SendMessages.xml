@@ -1,0 +1,13 @@
+
+<suite name = "Suite">
+	<test name="Test">
+	<parameter name="subject" value="Monthly Visit"/>
+	<parameter name="message" value="Having Cold and Cough"/>
+	<parameter name="result" value="Messages Successfully sent."/>
+		<classes>
+			<class name="betabatch.SendMessagesTests"/>
+		</classes>
+	</test>
+<!-- Test -->
+</suite>
+<!-- Suite -->
